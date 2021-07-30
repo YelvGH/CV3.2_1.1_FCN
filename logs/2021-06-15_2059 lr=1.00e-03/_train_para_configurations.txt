@@ -1,0 +1,16 @@
+initial_lr                : 0.001
+reduce_lr_factor          : 0.3
+reduce_lr_patience        : 3
+early_stopping_min_delta  : 0
+early_stopping_patience   : 7
+log_dir                   : ./logs/2021-06-15_2059 lr=1.00e-03/
+batch_size                : 4
+epoches                   : 50
+steps_per_epoch           : 10
+validation_steps          : 10
+validation_freq           : 1
+notebook                  : --
+
+Training-descriptions: 
+  __contents__
+  __contents__
